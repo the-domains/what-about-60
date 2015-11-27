@@ -1,7 +1,7 @@
 name: 'What about 60 '
 favicon: null
-layout_spectrum: 0.5711348548065871
-typography_spectrum: 0.6162893257569522
+layout_spectrum: 1
+typography_spectrum: 0.48019
 title: What About 60 and 50 and 40 and 30 and 20
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7970444222446531
+    - '#acaeba'
+    - '#3b5e00'
+    - '#819266'
+    - '#dfdfe1'
+    - '#ce9700'
+  brandStrength: 0
   lightness: 0.8099119397811592
   saturation: 0.32706476165913045
   rhythmicContrast: 0.38009263621643186
